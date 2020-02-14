@@ -1,6 +1,6 @@
 # QuickPaint
 
-![quickpaint_splashscreen](https://user-images.githubusercontent.com/57268763/74556116-2e8c9100-4f55-11ea-8f2f-e91729e2202b.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/57268763/74556411-e752d000-4f55-11ea-8f34-46181e0230ec.jpg)
 
 ## Google Play
 * [Install](https://play.google.com/store/apps/details?id=com.hfad.quickpaint&hl=en_US)
