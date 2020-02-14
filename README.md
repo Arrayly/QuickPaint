@@ -15,3 +15,8 @@ A user-friendly productivity app designed for painters and decorators to quickly
 
 ## Google Play
 * [Install](https://play.google.com/store/apps/details?id=com.hfad.quickpaint&hl=en_US)
+
+
+
+
+[npm-url]: https://npmjs.org/package/datadog-metrics
