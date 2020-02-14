@@ -4,9 +4,6 @@
 Native Android productivty App
 ```
 
-:blush:
-
-
 A user-friendly productivity app designed for painters and decorators to quickly estimate the cost of carrying out particular jobs.
 
 
@@ -21,7 +18,7 @@ A user-friendly productivity app designed for painters and decorators to quickly
 ```
 
 ## Google Play
-* [Install](https://play.google.com/store/apps/details?id=com.hfad.quickpaint&hl=en_US)
+[Get it here](https://play.google.com/store/apps/details?id=com.hfad.quickpaint&hl=en_US)
 
 
 
