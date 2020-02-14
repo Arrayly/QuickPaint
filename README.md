@@ -1,5 +1,5 @@
 # QuickPaint
-[![NPM Version][npm-image]][npm-url]
+[![ver][npm-image]][npm-url]
 
 
 A user-friendly productivity app designed for painters and decorators to quickly estimate the cost of carrying out particular jobs.
