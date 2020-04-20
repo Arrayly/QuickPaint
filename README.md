@@ -1,7 +1,8 @@
 # QuickPaint
 
 ```
-Native Android productivty App
+Native Android productivty App 
+Version 2.0.0
 ```
 
 A user-friendly productivity app designed for painters and decorators to quickly estimate the cost of carrying out particular jobs.
@@ -19,6 +20,8 @@ Create Estimate             |  Render a PDF
 ```
 * Built with Android SDK using Android Studio IDE
 * Jetpack components - LiveData, Databinding, ViewModel and Room database wtih MVVM architecture
+* Dependecy Injection with Dagger2
+* Asynchronous database calls with RxJava
 * Advanced algorithms for accurate measurements
 * IText 7 Core library for PDF rendering
 * Material design, advanced layouts and various animations for maximum UX
